@@ -1,2 +1,5 @@
-# arbitrage
-the rule of arbitrage
+# 套利法则
+本项目主要用于:
+1. 套利技巧的手机和整理
+2. 探讨发现套利技巧的方法
+3. 以issue讨论为主，讨论闭环后，由提问人生成相关markdown文件并上传
